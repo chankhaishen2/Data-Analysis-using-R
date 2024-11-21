@@ -1,0 +1,1 @@
+This is the code for the coursework of Data Science subject. The dataset "movies.csv" is provided by my lecturer. The file "Lab Report Assignment.pdf" is the tasks for the assignment. The file "5005CEM_Chan Khai Shen.r" is the solution to the tasks.
